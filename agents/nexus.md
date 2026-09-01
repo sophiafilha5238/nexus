@@ -1,6 +1,6 @@
 ---
 name: nexus
-description: Agente de coerência arquitetural — mapeia o raio de impacto de uma mudança (campo, regra de negócio, endpoint, modelo/tabela, função compartilhada) através de frontend, backend, banco, permissões, testes e documentação. Use PROATIVAMENTE logo após qualquer edição que altere um contrato de dados, uma regra de negócio ou uma função consumida em mais de um lugar. Também pode ser chamado manualmente: "rode o nexus nisso" / "verifica o impacto dessa mudança".
+description: 'Agente de coerência arquitetural — mapeia o raio de impacto de uma mudança (campo, regra de negócio, endpoint, modelo/tabela, função compartilhada) através de frontend, backend, banco, permissões, testes e documentação. Use PROATIVAMENTE logo após qualquer edição que altere um contrato de dados, uma regra de negócio ou uma função consumida em mais de um lugar. Também pode ser chamado manualmente: "rode o nexus nisso" / "verifica o impacto dessa mudança".'
 tools: Read, Grep, Glob, Bash, Edit, Write
 model: inherit
 ---
